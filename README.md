@@ -43,10 +43,6 @@
   <img src="https://streak-stats.demolab.com?user=Kurisari&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
----
-
-### 🐍 GitHub Contribution Snake
-
 <img src="https://github.com/Kurisari/Kurisari/blob/output/github-contribution-grid-snake.svg" />
 
 <p align="center">
