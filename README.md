@@ -26,9 +26,9 @@
 
 | 💼 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
-| 🏦 **MX-Banknote-Recognition** | AI-based recognition of Mexican bills using OpenCV and deep learning | [GitHub Repo](https://github.com/Kurisari/MX-Banknote-Recognition) |
-| 🤖 **Sumo Robot with STM32** | Embedded C project using ultrasonic and line sensors | Private (Coming soon) |
-| 📄 **PDF Generator WebApp** | Flask app that generates dynamic PDFs from forms | [Live Site](https://foraneos-up.vercel.app) |
+| 🏦 **MX-Banknote-Recognition** | AI-based recognition of Mexican bills using OpenCV and deep learning | [GitHub Repo](https://github.com/Kurisari/MX-Banknote-Detection) |
+| 🤖 **Files Compressor** | Python script to compress and decompress files | Public | [GitHub Repo](https://github.com/Kurisari/Compresor_Archivos) |
+| 📄 **Oscilloscope STM32F401RE** | Basic oscilloscope using STM32F401RE | [GitHub Repo](https://github.com/Kurisari/oscilloscope-stm32f401re) |
 
 ---
 
@@ -59,4 +59,5 @@
 ### 💬 Let’s build something cool together!
 
 ⭐ If you like my work, feel free to ⭐️ my repos and connect.
+
 🛠️ Open to collaboration on AI, embedded systems, and full-stack dev projects!
