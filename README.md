@@ -1,31 +1,38 @@
-<h1 align="center">Hey there! 👋 I'm Cristian Aragón</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Cristian+Arag%C3%B3n+%F0%9F%91%8B;AI+Engineering+Student+%F0%9F%A7%A0;Python+Enthusiast+%F0%9F%90%8D;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Artificial Intelligence Engineering student @ **Universidad Panamericana**
+- 🧠 Focused on **Machine Learning**, **Computer Vision**, and **Embedded Systems**
+- 🧰 Main stack: Python, C/C++, HTML, CSS, JavaScript
+- 🎸 Music, photography, and fútbol are my creative escapes
+- 🚀 Always looking for new projects to learn and grow
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
-🎓 Artificial Intelligence Engineering Student at <strong>Universidad Panamericana</strong><br>
-💻 Passionate about AI, Python, and building things that make a difference.<br>
-🌍 Based in Aguascalientes, Mexico
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,flask,git,linux,vscode,arduino,github" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🌟 Featured Projects
 
-- 🧑‍💻 I’m currently studying **Artificial Intelligence Engineering**.
-- 💬 I mainly code in **Python**, but I’m also comfortable with **HTML**, **CSS**, **JavaScript**, **C**, and **C++**.
-- 🤖 I'm passionate about **AI projects**, like my [MX-Banknote-Recognition](https://github.com/Kurisari/MX-Banknote-Detection) system.
-- 📸 When I’m not coding, you’ll find me playing guitar, photographing nature, or kicking a soccer ball.
-
----
-
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,c,flask,git,vscode" />
-</p>
+| 💼 Project | 🔍 Description | 🔗 Link |
+|-----------|----------------|--------|
+| 🏦 **MX-Banknote-Recognition** | AI-based recognition of Mexican bills using OpenCV and deep learning | [GitHub Repo](https://github.com/Kurisari/MX-Banknote-Recognition) |
+| 🤖 **Sumo Robot with STM32** | Embedded C project using ultrasonic and line sensors | Private (Coming soon) |
+| 📄 **PDF Generator WebApp** | Flask app that generates dynamic PDFs from forms | [Live Site](https://foraneos-up.vercel.app) |
 
 ---
 
-### 📈 Stats & Activity
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kurisari&show_icons=true&theme=radical" height="180"/>
@@ -36,19 +43,24 @@
   <img src="https://streak-stats.demolab.com?user=Kurisari&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
+---
+
+### 🐍 GitHub Contribution Snake
+
+<img src="https://github.com/Kurisari/Kurisari/blob/output/github-contribution-grid-snake.svg" />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kurisari&color=blue" />
+  <a href="https://www.linkedin.com/in/cristian-aragon-salazar/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:crisaragon.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://cristian-aragon-salazar.vercel.app"><img src="https://img.shields.io/badge/Website-black?logo=vercel&style=for-the-badge" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kurisari&label=Visitors&color=blue&style=flat-square" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 💬 Let’s build something cool together!
 
-- 🌐 [My Website](https://cristian-aragon-salazar.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/cristian-aragon-salazar/)
-- 🐦 [Twitter (X)](https://twitter.com/crisaragondev)
-- 📬 Email: [crisaragon.dev@gmail.com](mailto:crisaragon.dev@gmail.com)
-
----
-
-### ✨ Let’s build something cool together 🚀
+⭐ If you like my work, feel free to ⭐️ my repos and connect.
+🛠️ Open to collaboration on AI, embedded systems, and full-stack dev projects!
