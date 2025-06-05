@@ -27,8 +27,8 @@
 | 💼 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
 | 🏦 **MX-Banknote-Recognition** | AI-based recognition of Mexican bills using OpenCV and deep learning | [GitHub Repo](https://github.com/Kurisari/MX-Banknote-Detection) |
-| 🤖 **Files Compressor** | Python script to compress and decompress files | [GitHub Repo](https://github.com/Kurisari/Compresor_Archivos) |
-| 📄 **Oscilloscope STM32F401RE** | Basic oscilloscope using STM32F401RE | [GitHub Repo](https://github.com/Kurisari/oscilloscope-stm32f401re) |
+| 📄 **Files Compressor** | Python script to compress and decompress files | [GitHub Repo](https://github.com/Kurisari/Compresor_Archivos) |
+| 🤖 **Oscilloscope STM32F401RE** | Basic oscilloscope using STM32F401RE | [GitHub Repo](https://github.com/Kurisari/oscilloscope-stm32f401re) |
 
 ---
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-aragon-salazar/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:crisaragon.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="mailto:crisarag8.sal@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://cristian-aragon-salazar.vercel.app"><img src="https://img.shields.io/badge/Website-black?logo=vercel&style=for-the-badge" /></a>
 </p>
 <p align="center">
