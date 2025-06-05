@@ -27,7 +27,7 @@
 | 💼 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
 | 🏦 **MX-Banknote-Recognition** | AI-based recognition of Mexican bills using OpenCV and deep learning | [GitHub Repo](https://github.com/Kurisari/MX-Banknote-Detection) |
-| 🤖 **Files Compressor** | Python script to compress and decompress files | Public | [GitHub Repo](https://github.com/Kurisari/Compresor_Archivos) |
+| 🤖 **Files Compressor** | Python script to compress and decompress files | [GitHub Repo](https://github.com/Kurisari/Compresor_Archivos) |
 | 📄 **Oscilloscope STM32F401RE** | Basic oscilloscope using STM32F401RE | [GitHub Repo](https://github.com/Kurisari/oscilloscope-stm32f401re) |
 
 ---
