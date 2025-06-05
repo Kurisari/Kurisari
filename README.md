@@ -1,4 +1,10 @@
-## Hi there 👋
+Hey there! 👋 I’m currently an Artificial Intelligence Engineering student at Universidad Panamericana, Campus Aguascalientes. My main playgrounds are Python, HTML, CSS, JavaScript, C, and C++—but Python is my go-to language.
+
+I love working on AI projects, especially things like my MX-Banknote-Recognition project and anything that lets me dive deeper into the world of artificial intelligence.
+
+Outside of coding, you’ll probably find me strumming my guitar, kicking a soccer ball around, or out and about with my camera. If you want to know more or just connect, check me out on LinkedIn or visit my website.
+
+Let’s build something cool together! 🚀
 
 <!--
 **Kurisari/Kurisari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
