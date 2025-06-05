@@ -12,7 +12,7 @@
 
 - 🧑‍💻 I’m currently studying **Artificial Intelligence Engineering**.
 - 💬 I mainly code in **Python**, but I’m also comfortable with **HTML**, **CSS**, **JavaScript**, **C**, and **C++**.
-- 🤖 I'm passionate about **AI projects**, like my [MX-Banknote-Recognition](https://github.com/Kurisari/MX-Banknote-Recognition) system.
+- 🤖 I'm passionate about **AI projects**, like my [MX-Banknote-Recognition](https://github.com/Kurisari/MX-Banknote-Detection) system.
 - 📸 When I’m not coding, you’ll find me playing guitar, photographing nature, or kicking a soccer ball.
 
 ---
